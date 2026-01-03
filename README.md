@@ -2,12 +2,10 @@
 
 A dynamic web application built with **React** that generates random numbers. This project was developed to demonstrate mastery of React state management (`useState`), event handling, and conditional rendering.
 
-![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
-
 ## 🚀 Live Demo
 
 Check out the live version of the app here:
-**[👉 INSERT YOUR VERCEL APP LINK HERE]**
+**[👉 INSERT YOUR VERCEL APP LINK HERE](https://random-number-generator-react-ten.vercel.app/)**
 
 ---
 
