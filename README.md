@@ -5,7 +5,7 @@ A dynamic web application built with **React** that generates random numbers. Th
 ## 🚀 Live Demo
 
 Check out the live version of the app here:
-**[👉 INSERT YOUR VERCEL APP LINK HERE](https://random-number-generator-react-ten.vercel.app/)**
+**[👉 RANDOM NUMBER GENERATOR LINK HERE](https://random-number-generator-react-ten.vercel.app/)**
 
 ---
 
